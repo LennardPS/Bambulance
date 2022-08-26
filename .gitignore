@@ -48,6 +48,11 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
+Bambulance/Intermediate/Android/*
+Bambulance/Build/*
+Bambulance/Saved/*
+Bambulance/Intermediate/*
+Bambulance/Binaries/*
 
 # Builds
 Build/*
